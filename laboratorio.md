@@ -21,3 +21,8 @@
 ## 6. Criar e Trabalhar em uma Nova Branch
 
 ![alt text](assets/image-5.png)
+
+## 7. Fazer Merge da Branch na Main
+
+![alt text](assets/image-6.png)
+
