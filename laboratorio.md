@@ -18,3 +18,6 @@
 
 ![alt text](assets/image-4.png)
 
+## 6. Criar e Trabalhar em uma Nova Branch
+
+![alt text](assets/image-5.png)
